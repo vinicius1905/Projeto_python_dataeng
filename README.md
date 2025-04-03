@@ -17,5 +17,5 @@ Este repositório contém scripts para tratamento e transformação de dados, de
 
 ## Autor
 
-Samuel Filgueiras de Faria
+Vinicius Oliveira da silva
 
